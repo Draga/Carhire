@@ -1,10 +1,4 @@
-Car Hire Business : Group Project Work Collaboration
+Car hire project:
 
-* All the works should be pushed in this repository by each group member if they are assigned to do programming part.
-
-* All others can still browse and download source codes into their machines and test in their local machine(s).
-
-Date: Feb 10 , 2012
-
-###
-test
+This is the prototype of the software to be deployed in an agency of the company for testing.
+It's framework is a reusable MVC, using JSwing and MySQL connector.
